@@ -1,5 +1,9 @@
 Test 123
+<<<<<<< HEAD
 commit test
+=======
+New row
+>>>>>>> 06cb0e700fcb61f2ef579d61c9899105b625a06f
 456
 789.
 Add line
