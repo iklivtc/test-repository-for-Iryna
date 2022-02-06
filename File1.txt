@@ -4,9 +4,6 @@ New row
 456
 789.
 Add line
-<<<<<<< HEAD
 3line
 new branch line
 new branch line3
-=======
->>>>>>> 5702505c4d79f4001ed38a929ad2f25a3e46f722
