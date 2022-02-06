@@ -1,2 +1,5 @@
 blame Add line file.txt
+<<<<<<< HEAD
 work with Git Bash file.txt
+=======
+>>>>>>> 5702505c4d79f4001ed38a929ad2f25a3e46f722

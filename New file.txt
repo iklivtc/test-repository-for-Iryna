@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 Learn for testing
 
 Just go ahead to your goal
 
+=======
+Learn for testing
+
+Just go ahead to your goal
+
+>>>>>>> 5702505c4d79f4001ed38a929ad2f25a3e46f722
 Good morning
